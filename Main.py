@@ -1,3 +1,6 @@
+"""
+AUTHOR : Andreas Visagie @ 2019
+"""
 import pyglet
 from pyglet.window import key
 from GameObj import GameOb, imgloader

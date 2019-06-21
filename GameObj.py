@@ -1,3 +1,6 @@
+"""
+AUTHOR : Andreas Visagie @ 2019
+"""
 import pyglet
 
 def imgloader(img):
